@@ -1,0 +1,30 @@
+{
+  "name": "electron-package-plugin",
+  "version": "0.1.0",
+  "description": "A Webpack plugin to generate the Electron package.json with the values in the project package.json",
+  "main": "src/electron-package-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljota/electron-package-plugin.git"
+  },
+  "keywords": [
+    "electron",
+    "package",
+    "webpack",
+    "plugin",
+    "generator",
+    "json"
+  ],
+  "author": "Michael De Abreu <michaeljota@outlook.com> (http://michaeljota.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaeljota/electron-package-plugin/issues"
+  },
+  "homepage": "https://github.com/michaeljota/electron-package-plugin#readme",
+  "dependencies": {
+    "app-root-path": "^2.0.1"
+  }
+}
