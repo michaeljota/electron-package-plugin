@@ -76,3 +76,8 @@ Really thanks to the author @elliottsj.
 
 - Tests
 - Set an option to define the structure to be used
+
+## Changelog
+
+- v0.1.1 - Fixed Node v4 compatibility (2016-10-30)
+- v0.1.0 - Initial release (2016-10-26)

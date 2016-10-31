@@ -1,6 +1,6 @@
 {
   "name": "electron-package-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Webpack plugin to generate the Electron package.json with the values in the project package.json",
   "main": "src/electron-package-plugin.js",
   "scripts": {
